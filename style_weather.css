@@ -18,7 +18,8 @@ body{
     text-align: center;
 }
 button{
-    size: 20px;
+    size: 30px;
+    color: aqua;
 }
 .search{
     width: 100%;
